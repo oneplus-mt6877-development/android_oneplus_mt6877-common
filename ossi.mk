@@ -427,7 +427,7 @@ PRODUCT_PACKAGES += \
     PresencePolling
 
 # ImsInit hack
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
     ImsInit
 
 # Rootdir
